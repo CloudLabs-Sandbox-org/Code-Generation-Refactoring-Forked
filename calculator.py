@@ -39,5 +39,6 @@ def calculator():
     else:
         print("Invalid input")
 
+
 if __name__ == "__main__":
     calculator()

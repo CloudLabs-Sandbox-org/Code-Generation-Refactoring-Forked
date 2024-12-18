@@ -13,6 +13,7 @@ def get_weather(api_key, city):
     else:
         return None
 
+
 def main():
     api_key = "2c321deb2c525febe86d52b51cd1f09d"
     city = "London"
